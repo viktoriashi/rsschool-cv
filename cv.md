@@ -3,7 +3,9 @@
 * telegram: **@viiktorias** 
 * discord: **Vika Shidlovskaya (@viktoriashi)**
 #
-## Highly motivated student in search of new knowledge
+## *Highly motivated student in search of new knowledge*
+## Education: 
+* Belarusian State University - Faculty of Applied Mathematics and Computer Science  (Minsk, Belarus, 2018 - present)  
 ## Skills:
 * JavaScript
 * React
