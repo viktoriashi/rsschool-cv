@@ -1,5 +1,5 @@
 # *Viktoria Shidlovskaya*
-## Contact: 
+## Contact:
 * telegram: **@viiktorias** 
 * discord: **Vika Shidlovskaya (@viktoriashi)**
 #
@@ -10,12 +10,13 @@
 * HTML
 * CSS
 * BEM methodology
-#
+
 ## Code example: 
 ```
 function multiply(a, b){
   return a * b
 }
 ```
-## English: intermediate
-## French: advanced
+## Languages:
+* English: intermediate
+* French: advanced
